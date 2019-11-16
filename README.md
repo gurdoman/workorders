@@ -23,4 +23,4 @@ Besides normal dependencies, this app requires:
 
 ### Developed
 
-Developed by Adrian Rossino, for exclusive use by Hatchways as a coding assessment.
+Developed by Adrian Rossino, for exclusive use as a coding assessment.
